@@ -1,0 +1,175 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    overflow: hidden;
+}
+
+.font-color {
+    color: #F0C145;
+}
+
+.font {
+    color: #F0C145;
+    font-size: 2vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+.font-title {
+    color: #F0C145;
+    font-size: 3vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+.font-body {
+    color: #fffcf2;
+    font-size: 2vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+.margin-5 {
+    margin: 5vmax;
+}
+
+.margin-4 {
+    margin: 4vmax;
+}
+
+.margin-2 {
+    margin: 2vmax;
+}
+
+.margin-top-4 {
+    margin-top: 4vmax;
+}
+
+.margin-top-3 {
+    margin-top: 3vmax;
+}
+
+.padding-2 {
+    padding: 2vmax;
+}
+
+.background {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.borda-topo {
+    display: flex;
+    width: 100vw;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+.tabela {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100vw;
+    
+}
+.tabela-body {
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.social {
+    padding-top: 5vmax;
+    display: flex;
+}
+
+.social img {
+    margin-right: 1vmax;
+    width: 2vmax;
+    height: 2vmax;
+}
+
+.borda-foot {
+    display: flex;
+    width: 100vw;
+}
+
+.color-button {
+    background-color: black;
+}
+
+.modal-personalizacao {
+    background-color: black;
+    height: 55vh;
+}
+
+.img-modal {
+    display: flex;
+    width: 70%;
+    margin-left: 15%; 
+    margin-right: 15%;
+}
+
+.video-modal {
+    display: flex;
+    width: 70%;
+    margin-left: 15%; 
+    margin-right: 15%;
+    margin-top: 2%;
+}
+
+.title-modal {
+    color: #F0C145;
+    font-size: 2.5vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+.subtitule-modal {
+    color: #fffcf2;
+    font-size: 2vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+.font-modal {
+    color: #fffcf2;
+    font-size: 1.5vmax;
+    font-family: Arial;
+    font-style: normal;
+}
+
+.font-amarela {
+    color: #F0C145;
+}
+
+.text-modal {
+    margin-left: 5vmax;
+}
